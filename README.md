@@ -111,6 +111,7 @@ React App  HOC
 브라우저 위젯 만들기
 공공데이터 WMS 지적도를 활용한 지리맵 시각화 
 ```
+[예시프로젝트 바로가기](https://all-my-projects-2024.github.io/Widget_by_VanillaJS/)
 
 Database(48h)
 ```
@@ -174,7 +175,7 @@ Spring MVC 아키텍처
 Spring AOP (Aspect-Oriented Programming)
 예외 처리
 파일 업로드 및 다운로드
-Spring 보안 (Spring Security)
+Spring 보안 (Spring Security - README / OAUTH2CLIENT / JWT TOKEN )
 RESTful API 개발
 테스트와 TDD
 Spring Boot와 비교 이해
