@@ -9,8 +9,8 @@ https://hrd.work24.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20210000328907&
 TABLE
 ---
 
-| 교과목명             | 세부내용                                                                                                                                                                                                                                           | 훈련시간 |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|교과목명|세부내용|훈련시간|
+|-|-|-|
 | HTML/CSS             | - Web Browser <br> - HTML Fundamental <br> - HTML Tag, Components <br> - CSS Fundamental <br> - CSS Selector <br> - CSS Priority <br> - CSS Font, Layout <br> - CSS Effect <br> - CSS Float Box Layout <br> - Responsive Web <br> - CSS Flex Box Layout <br> - CSS Grid <br> - Mediaqueries | 100 시간  |
 | Javascript           | - Javascript Fundamental <br> - Variable <br> - Expression <br> - Dom, Event <br> - Operator <br> - Control Statement <br> - Function <br> - Scope <br> - Ajax <br> - Fetch <br> - Git                                                               | 100 시간  |
 | PHP & Laravel        | - PHP prepare <br> - Basic syntax <br> - Variable & Scope <br> - Expression <br> - Dom, Event <br> - Operator <br> - Control Statement <br> - Function <br> - Class <br> - Install Laravel & MVC <br> - Routing <br> - Request & Response <br> - Blade Template <br> - Session & Cookie & CSRF <br> - Database Controller <br> - Authentication & Authorization <br> - File Handling <br> - Notification <br> - Testing & Deploy | 120 시간  |
