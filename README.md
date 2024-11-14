@@ -1,6 +1,5 @@
 # 기업요구를 반영한 프로젝트 중심 REACT + SPRINGBOOT 풀스택 과정
 
-
 ---
 # 구분
 ---
@@ -50,11 +49,11 @@ HTML/CSS/JS
 
 FRONTEND PROEJCT
 ```
-클론 코딩(랜덤)
-개별 템플릿 포트폴리오싸이트 제작
+1. 클론 코딩(랜덤)
+2. Git pages 이용한 개별 템플릿 포트폴리오싸이트 제작
 ```
 
-CDN / Library
+CDN / LIBRARY
 ```
   BootStrap
   JQUERY.js
@@ -70,23 +69,23 @@ CDN / Library
 
 PROJECT
 ```
-구글캘린더 API 연동 TodoList
-모바일 웹 청첩장 구현
-Leaftlet 을 이용한 지도 시각화 교통 CCTV 현황 구현
-ThreeJs 를 이용한 애니메이션 캐릭터 구현하기
+구글캘린더 API 연동 TodoList [제작중 - ]()
+모바일 웹 청첩장 구현  [예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/02_JS_WEDDING/)
+Leaftlet 을 이용한 지도 시각화 교통 CCTV 현황 구현 [예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/CCTV_WEATHER_PROJECT_FN/)
+ThreeJs 를 이용한 애니메이션 캐릭터 구현하기 [예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/03_JS_LIB_RACOON/)
 ```
 
 NODE/SCSS/EXPRESS.js
 ```
-node 기본
-  - node 사용하기 / nvm / npm 
-SASS / SCSS
-  - 중첩 / 변수 / 연산 / @Mixins / @for / @function / @import / @each / @content
-Express
-  - Express란 / Express시작하기 / 요청응답객체 / 라우팅 / 정적파일처리 / 모듈만들기 / 몽고DB연결 / 인증세션
+node 기본(node 사용하기 / nvm / npm /github 연동)
+SASS / SCSS(중첩 / 변수 / 연산 / @Mixins / @for / @function / @import / @each / @content)
+Express(Express란 / Express시작하기 / 요청응답객체 / 라우팅 / 정적파일처리 / 모듈만들기 / 몽고DB연결 / 인증세션)
 ```
 
-
+PROJECT
+```
+NODE + EXPRESS.JS SOCKET.IO를 이용한 채팅 서버 만들기
+```
 
 REACT
 ```
@@ -105,7 +104,7 @@ React App  HOC
 
 REACT PROJECT
 ```
-쇼핑몰 CRUD 프론트 페이지 제작
+쇼핑몰 기본 CRUD 프론트 페이지 제작
 브라우저 위젯 만들기
 공공데이터 WMS 지적도를 활용한 지리맵 시각화 
 ```
@@ -178,7 +177,7 @@ RESTful API 개발
 Spring Boot와 비교 이해
 ```
 
-REACT - SPRINGBOOT 연동
+REACT - SPRINGBOOT 연동하기
 ```
 REACT - SPRINGBOOT PARAMETER 
 REACT - SPRINGBOOT VALIDATION
