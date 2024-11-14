@@ -115,8 +115,22 @@ REACT PROJECT
 
 Database
 ```
-
+데이터베이스 기본 개념
+MySQL 설치 및 환경 설정
+데이터베이스 및 테이블 관리
+데이터 타입과 제약 조건
+기본 SQL 문법 (CRUD)
+조건문과 함수
+JOIN을 통한 데이터 결합
+서브쿼리와 집계 함수
+뷰(View) 생성 및 사용
+인덱스와 성능 최적화
+트랜잭션과 잠금 (Lock)
+사용자와 권한 관리
+백업과 복구
+데이터베이스 설계 (ERD)
 ```
+
 JAVA
 ```
 1. Java 기초
@@ -167,7 +181,7 @@ RESTful API 개발
 Spring Boot와 비교 이해
 ```
 
-REACT - SPRINGBOOT  PROJECT 
+REACT - SPRINGBOOT 연동
 ```
 REACT - SPRINGBOOT PARAMETER 
 REACT - SPRINGBOOT VALIDATION
