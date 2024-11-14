@@ -1,4 +1,4 @@
-# 기업요구를 반영한 프로젝트 중심 웹앱임베디드 풀스택 과정
+# 기업요구를 반영한 프로젝트 중심 REACT + SPRINGBOOT 풀스택 과정
 
 
 ---
@@ -50,7 +50,7 @@ HTML/CSS/JS
 
 FRONTEND PROEJCT
 ```
-클론 코딩(NETFLEX)
+클론 코딩(랜덤)
 개별 템플릿 포트폴리오싸이트 제작
 ```
 
@@ -86,10 +86,7 @@ Express
   - Express란 / Express시작하기 / 요청응답객체 / 라우팅 / 정적파일처리 / 모듈만들기 / 몽고DB연결 / 인증세션
 ```
 
-NODE/EXPRESS.js PROJECT
-```
-EXPRESS 기반 채팅 서버 만들기
-```
+
 
 REACT
 ```
@@ -193,31 +190,36 @@ REACT - SPRINGBOOT SPRINGSECURITY
 ```
 
 
-PROJECT
+PROJECT1
+```
+채팅 서버 구현 
 ```
 
+PROJECT2
+```
+REST 기반 API SERVER 구현 
+
+```
+PROJECT3
+```
+경매싸이트 개발 
 ```
 
 
 
 CI/CD
 ```
-```
-
-DATABASE
-```
-MYSQL
-
-```
-
-OPENAPI
-```
+AWS EC2
+AWS ROUTER53
+가비아 도메인 연결
+DOCKER 사용하기
+JENKINS SERVER 구축
+GITHUB ACTION
 
 ```
 
-임베디드
-```
-카메라 비전 다루기 
-```
+
+
+
 
 
