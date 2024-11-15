@@ -1,9 +1,8 @@
 # 기업요구를 반영한 프로젝트 중심 REACT + SPRINGBOOT 풀스택 과정
 
 ---
-# 구분
----
 GIT & GITHUB(24H - 3일)
+---
 ```
 01. Git 기본 개념 및 설치
 02. Git 초기 설정 및 기본 명령어
@@ -18,8 +17,9 @@ GIT & GITHUB(24H - 3일)
 11. GITHUB PROJECT 사용하여 팀원간 협업하기
 12. GITHUB PAGES 사용하기
 ```
-
+---
 HTML/CSS/JS(48H - 6일) 
+---
 ```
 01. HTML - 구조 이해 및 기본 문서 작성
   HTML 기본 구조: <!DOCTYPE html>, <html>, <head>, <body>
@@ -47,13 +47,17 @@ HTML/CSS/JS(48H - 6일)
 
 ```
 
+---
 미니 PROEJCT(24h - 3일)
+---
 ```
 1. 클론 코딩(랜덤)
 2. Git pages 이용한 개별 포트폴리오 템플릿 싸이트 제작
 ```
 
+---
 CDN / LIBRARY(40h - 5일)
+---
 ```
   BootStrap
   JQUERY.js
@@ -67,30 +71,40 @@ CDN / LIBRARY(40h - 5일)
   Leaftlet.js
 ```
 
+---
 미니 PROJECT(40h)
+---
+[예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/02_JS_WEDDING/) | 
+[예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/CCTV_WEATHER_PROJECT_FN/) | 
+[예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/03_JS_LIB_RACOON/) | 
+
 ```
 구글캘린더 API 연동 TodoList  
 모바일 웹 청첩장 구현  
 Leaftlet 을 이용한 지도 시각화 교통 CCTV 현황 구현 
 ThreeJs 를 이용한 애니메이션 캐릭터 구현하기 
 ```
-[예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/02_JS_WEDDING/) | 
-[예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/CCTV_WEATHER_PROJECT_FN/) | 
-[예시 프로젝트 바로가기](https://all-my-projects-2024.github.io/03_JS_LIB_RACOON/) | 
 
+
+---
 NODE/SCSS/EXPRESS.js(40h)
+---
 ```
 node 기본(node 사용하기 / nvm / npm /github 연동)
 SASS / SCSS(중첩 / 변수 / 연산 / @Mixins / @for / @function / @import / @each / @content)
 Express(Express란 / Express시작하기 / 요청응답객체 / 라우팅 / 정적파일처리 / 모듈만들기 / 몽고DB연결 / 인증세션)
 ```
 
+---
 미니 PROJECT(24h)
+---
 ```
 NODE + EXPRESS.JS SOCKET.IO를 이용한 채팅 서버 만들기
 ```
 
+---
 REACT(56h - 7)
+---
 ```
 React App Create	 
 React App  JSX	 
@@ -105,15 +119,20 @@ React App  리액트 훅
 React App  HOC	 
 ```
 
+---
 미니 REACT PROJECT(40h)
+---
+[예시프로젝트 바로가기](https://all-my-projects-2024.github.io/Widget_by_VanillaJS/)
 ```
 쇼핑몰 기본 CRUD 프론트 페이지 제작
 브라우저 위젯 만들기
 공공데이터 WMS 지적도를 활용한 지리맵 시각화 
 ```
-[예시프로젝트 바로가기](https://all-my-projects-2024.github.io/Widget_by_VanillaJS/)
 
+
+---
 Database(48h)
+---
 ```
 데이터베이스 기본 개념
 MySQL 설치 및 환경 설정
@@ -130,8 +149,9 @@ JOIN을 통한 데이터 결합
 백업과 복구
 데이터베이스 설계 (ERD)
 ```
-
+---
 JAVA(80h)
+---
 ```
 1. Java 기초
 2. 객체 지향 프로그래밍 (OOP)
@@ -147,8 +167,9 @@ JAVA(80h)
 12. Java 8 이상 주요 기능
 13. 디자인 패턴
 ```
-
+---
 JSP/SERVLET(56h)
+---
 ```
 1. JSP/Servlet 기본 개념
 2. Servlet 기초
@@ -163,7 +184,9 @@ JSP/SERVLET(56h)
 11. 파일 업로드와 다운로드
 ```
 
+---
 SPRINGFRAMEWORK / SPRINBBOOT(120h)
+---
 ```
 Spring 프레임워크 개요
 의존성 주입 (DI, Dependency Injection)
@@ -180,8 +203,9 @@ RESTful API 개발
 테스트와 TDD
 Spring Boot와 비교 이해
 ```
-
+---
 REACT - SPRINGBOOT 연동하기(40h)
+---
 ```
 REACT - SPRINGBOOT PARAMETER 
 REACT - SPRINGBOOT VALIDATION
@@ -192,39 +216,55 @@ REACT - SPRINGBOOT RESTFUL API
 REACT - SPRINGBOOT SPRINGSECURITY
 ```
 
+---
 프로젝트 기획 설계
+---
 ```
-01
-02
-03
-04
-05
-06
-07
-08
+FN
+01 스타일 가이드
+02 와이어 프레임
+03 프로토 타입
+04 스토리보드
+
+BN
+01 요구사항 분석
+02 요구사항 정의서
+03 USECASE
+04 USECASE명세서
+05 클래스 다이어그램
+06 클래스 다이어그램 MVC
+07 시퀀스 다이어그램
+08 API 명세서 
 09
 10
 ```
 
+---
 FINAL PROJECT1
+---
 ```
 OPENAPI 를 활용한  반응형 - 
 ```
-
+---
 FINAL PROJECT2
+---
 ```
 반려동물 정합정보 서비스[나의반려동물 등록 / 견종 정보 확인 / 근처 병원 찾기 / 동물 보감.. / 용품 구매]
 
 ```
+---
 FINAL PROJECT3
+---
+[예시프로젝트 바로가기](https://www.cragra.com/) 
 ```
 STOMP를 이용한 이미지/음악 경매시스템 개발 
 ```
-[예시프로젝트 바로가기](https://www.cragra.com/)
 
 
 
+---
 CI/CD
+---
 ```
 AWS EC2
 AWS ROUTER53
