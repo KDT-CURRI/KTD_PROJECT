@@ -217,6 +217,20 @@ REACT - SPRINGBOOT SPRINGSECURITY
 ```
 
 ---
+CI/CD
+---
+```
+AWS EC2
+AWS ROUTER53
+가비아 도메인 연결
+DOCKER 사용하기
+JENKINS SERVER 구축
+GITHUB ACTION
+
+```
+
+
+---
 프로젝트 기획 설계
 ---
 ```
@@ -261,19 +275,6 @@ STOMP를 이용한 이미지/음악 경매시스템 개발
 ```
 
 
-
----
-CI/CD
----
-```
-AWS EC2
-AWS ROUTER53
-가비아 도메인 연결
-DOCKER 사용하기
-JENKINS SERVER 구축
-GITHUB ACTION
-
-```
 
 
 
