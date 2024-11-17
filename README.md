@@ -18,7 +18,7 @@ GIT & GITHUB(24H - 3일)
 12. GITHUB PAGES 사용하기
 ```
 ---
-HTML/CSS/JS(48H - 6일) 
+HTML/CSS/JS(80H - 10일) 
 ---
 ```
 01. HTML - 구조 이해 및 기본 문서 작성
@@ -203,18 +203,6 @@ RESTful API 개발
 테스트와 TDD
 Spring Boot와 비교 이해
 ```
----
-REACT - SPRINGBOOT 연동하기(40h)
----
-```
-REACT - SPRINGBOOT PARAMETER 
-REACT - SPRINGBOOT VALIDATION
-REACT - SPRINGBOOT EXCEPTION	
-REACT - SPRINGBOOT JPA/TX
-REACT - SPRINGBOOT UP/DOWNLOAD
-REACT - SPRINGBOOT RESTFUL API
-REACT - SPRINGBOOT SPRINGSECURITY
-```
 
 ---
 CI/CD
@@ -222,7 +210,9 @@ CI/CD
 ```
 AWS EC2
 AWS ROUTER53
+AWS Certificate Manager
 가비아 도메인 연결
+
 DOCKER 사용하기
 JENKINS SERVER 구축
 GITHUB ACTION
@@ -245,12 +235,10 @@ BN
 02 요구사항 정의서
 03 USECASE
 04 USECASE명세서
-05 클래스 다이어그램
-06 클래스 다이어그램 MVC
-07 시퀀스 다이어그램
-08 API 명세서 
-09
-10
+05 클래스 다이어그램 MVC
+06 시퀀스 다이어그램
+07 API 명세서 
+
 ```
 
 ---
@@ -273,6 +261,32 @@ FINAL PROJECT3
 ```
 STOMP를 이용한 이미지/음악 경매시스템 개발 
 ```
+
+
+------------------------------
+# 기업요구를 반영한 프로젝트 중심 REACT + SPRINGBOOT 풀스택 과정
+
+| **교과목명**                | **세부내용**                                                                                                                                                                                                                                                      | **훈련시간** |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| **GIT & GITHUB**            | - Git 기본 개념 및 설치<br>- Git 초기 설정 및 기본 명령어<br>- Git 로그 및 기록 조회<br>- 브랜치 (Branch) 관리<br>- Git 병합 / 되돌리기<br>- 원격 저장소 (Remote Repository) 관리<br>- GitHub의 기본기능<br>- GIT - GITHUB 연동 사용<br>- GITHUB PROTECT RULE 관리<br>- GIT 협업 WORKFLOW 전략<br>- GITHUB PROJECT 사용하여 팀원간 협업하기<br>- GITHUB PAGES 사용하기 | 24시간 (3일) |
+| **HTML/CSS/JS**             | **HTML**<br>- HTML 기본 구조: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`<br>- 텍스트 요소: `<h1>`~`<h6>`, `<p>`, `<br>`, `<hr>`<br>- 목록 및 링크: `<ul>`, `<ol>`, `<li>`, `<a>`<br>- 이미지와 멀티미디어: `<img>`, `<audio>`, `<video>`<br>- 테이블: `<table>`, `<tr>`, `<td>`, `<th>`, `<caption>`<br>- 폼: `<form>`, `<input>`, `<label>`, `<button>`, `<textarea>`, `<select>`, `<option>`<br>- 시맨틱 태그: `<header>`, `<footer>`, `<nav>`, `<section>`, `<article>`<br><br>**CSS**<br>- CSS 기본 문법: 선택자, 속성, 값<br>- 텍스트 스타일링: 색상, 글꼴, 크기, 정렬<br>- 박스 모델: `margin`, `padding`, `border`, `width`, `height`<br>- 디스플레이와 위치: `display`, `position`, `float`, `clear`, `z-index`<br>- 레이아웃 기법: Flexbox, Grid<br>- 반응형 디자인: 미디어 쿼리, 뷰포트, 모바일 퍼스트 디자인<br><br>**JavaScript**<br>- 기본 문법: 변수, 데이터 타입, 연산자, 조건문, 반복문<br>- 함수와 스코프: 함수 선언 및 호출, 매개변수와 반환 값, 스코프<br>- DOM 조작: `document.getElementById`, `document.querySelector`, `innerHTML`, 스타일 변경<br>- 이벤트 처리: `onclick`, `onmouseover`, `addEventListener` | 80시간 (10일) |
+| **미니 PROJECT**            | - 클론 코딩<br>- Git Pages로 개별 포트폴리오 사이트 제작                                                                                                                                                                                                         | 24시간 (3일) |
+| **CDN / LIBRARY**           | - BootStrap<br>- JQuery.js<br>- Swiper.js<br>- Lodash.js<br>- ScrollMagic.js<br>- GSAP.js<br>- Chart.js<br>- Three.js<br>- QsCode.js<br>- Leaflet.js                                                                                                            | 40시간 (5일) |
+| **미니 PROJECT**            | - 구글캘린더 API 연동 TodoList<br>- 모바일 웹 청첩장<br>- Leaflet 지도 시각화 교통 CCTV 현황<br>- Three.js 애니메이션 캐릭터 구현                                                                                                                                 | 40시간       |
+| **NODE/SCSS/EXPRESS.js**    | - Node.js 기본: Node.js 사용하기, NVM, NPM, GitHub 연동<br>- SASS/SCSS: 중첩, 변수, 연산, Mixins, 함수<br>- Express.js: 요청 응답 객체, 라우팅, 정적 파일 처리, MongoDB 연결, 인증 세션                                                                                  | 40시간       |
+| **미니 PROJECT**            | - Node.js + Express.js + Socket.IO를 이용한 채팅 서버 만들기                                                                                                                                                                                                   | 24시간       |
+| **REACT**                   | - React App 생성<br>- JSX<br>- Component<br>- Event<br>- 조건부 렌더링<br>- 리스트와 키<br>- 스타일링<br>- 라우팅<br>- 컴포넌트 간 통신<br>- React Hooks<br>- HOC                                                                                              | 56시간 (7일) |
+| **미니 REACT PROJECT**      | - 쇼핑몰 CRUD 프론트 페이지 제작<br>- 브라우저 위젯 만들기<br>- 공공데이터 WMS 지적도를 활용한 지리맵 시각화                                                                                                                                                     | 40시간       |
+| **Database**                | - 데이터베이스 기본 개념<br>- MySQL 설치 및 환경 설정<br>- CRUD<br>- JOIN, 서브쿼리, 트랜잭션<br>- 성능 최적화<br>- 데이터베이스 설계(ERD)<br>- 백업과 복구                                                                                                       | 48시간       |
+| **JAVA**                    | - Java 기초<br>- OOP<br>- 예외 처리<br>- 컬렉션<br>- I/O<br>- 스레드<br>- 람다와 스트림<br>- JDBC<br>- 네트워크 프로그래밍<br>- 디자인 패턴                                                                                                                       | 80시간       |
+| **JSP/SERVLET**             | - JSP/Servlet 기초<br>- 세션과 쿠키<br>- 데이터베이스 연동<br>- MVC 구현<br>- 필터와 리스너<br>- 에러 처리<br>- 파일 업로드/다운로드                                                                                                                            | 56시간       |
+| **SPRINGFRAMEWORK / SPRINGBOOT** | - Spring 프레임워크 개요<br>- DI<br>- Spring MVC<br>- 데이터베이스 연동<br>- 트랜잭션 관리<br>- AOP<br>- RESTful API 개발<br>- Spring Security(JWT, OAuth2)<br>- Spring Boot 비교                                                                                           | 120시간      |
+| **CI/CD**                   | - AWS EC2<br>- Route 53<br>- Certificate Manager<br>- 가비아 도메인 연결<br>- Docker<br>- Jenkins Server<br>- GitHub Action                                                                                                                                  | 별도 설정     |
+| **프로젝트 기획 설계**       | - 스타일 가이드<br>- 와이어프레임<br>- 프로토타입<br>- 요구사항 분석/정의<br>- USECASE/명세서<br>- 클래스 다이어그램<br>- 시퀀스 다이어그램<br>- API 명세서                                                                                                   | 별도 설정     |
+| **FINAL PROJECT1**          | - OPENAPI를 활용한 반응형 서비스 개발                                                                                                                                                                                                                          | 별도 설정     |
+| **FINAL PROJECT2**          | - 반려동물 정합 정보 서비스 (등록, 정보 확인, 병원 찾기, 동물 보감, 용품 구매)                                                                                                                                                                                  | 별도 설정     |
+| **FINAL PROJECT3**          | - STOMP를 이용한 이미지/음악 경매 시스템                                                                                                                                                                                                                       | 별도 설정     |
+
 
 
 
