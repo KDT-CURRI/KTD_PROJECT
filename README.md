@@ -232,6 +232,7 @@ BN
 02 요구사항 정의서
 03 USECASE
 04 USECASE명세서
+05 FLOW CHART
 05 클래스 다이어그램 MVC
 06 시퀀스 다이어그램
 07 API 명세서
@@ -242,7 +243,19 @@ FINAL PROJECT 1 - 100H
 ---
 [예시프로젝트 바로가기](https://www.cragra.com/) 
 ```
-이미지/음악 경매시스템 개발  
+이미지/음악 경매시스템 개발
+[기획]
+1 요구사항분석
+2 요구사항 정의서
+3 USECASE
+4 USECASE 명세서
+5 FLOW CHART
+6 프로토타입 & 스토리보드 (FIGMA)
+
+[구현]
+1 기본 레이아웃 구현
+
+
 핵심 기술 : SPRING MVC,THYMELEAF, MYBATIS OR JPA ,  SPRING SECURITY, SPRING TRANSACTION, OAUTH2_CLIENT , JWT TOKEN , REDIS , WEBSOCKET_STOMP 
 ```
 
