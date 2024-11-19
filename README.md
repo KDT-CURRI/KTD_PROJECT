@@ -221,13 +221,13 @@ JENKINS / JENKINS GITHUB ACTION 연동
 프로젝트 기획 설계(32H - 4일)
 ---
 ```
-FN
+[FN]
 01 스타일 가이드
 02 와이어 프레임
 03 프로토 타입
 04 스토리보드
 
-BN
+[BN]
 01 요구사항 분석
 02 요구사항 정의서
 03 USECASE
@@ -236,36 +236,72 @@ BN
 05 클래스 다이어그램 MVC
 06 시퀀스 다이어그램
 07 API 명세서
+
 ```
 
 ---
-FINAL PROJECT 1 - 100H
+FINAL PROJECT 1(120H)  - (100H->120H)
+이미지/음악 경매시스템 개발
 ---
 [예시프로젝트 바로가기](https://www.cragra.com/) 
 ```
-이미지/음악 경매시스템 개발
 [기획]
-1 요구사항분석
-2 요구사항 정의서
-3 USECASE
-4 USECASE 명세서
-5 FLOW CHART
-6 프로토타입 & 스토리보드 (FIGMA)
+01 스타일 가이드
+02 와이어 프레임
+03 프로토 타입
+04 스토리보드
+05 요구사항 분석
+06 요구사항 정의서
+07 USECASE
+08 USECASE명세서
+09 FLOW CHART
+10 클래스 다이어그램 MVC
+11 시퀀스 다이어그램
+12 API 명세서
 
-[구현]
-1 기본 레이아웃 구현
+[구현기능]
+메인[랭킹이미지순위TOP10/랭킹음악순위TOP10/경매현황]
+나의정보[나의정보확인/수정/삭제/앨범이미지,음악등록/랭킹게시판업로드 / 경매요청]
+랭킹게시판[랭킹이미지CRUD / 랭킹음악 CRUD / 즐겨찾기추가 / 댓글달기..]
+매매[경매참여 / 가격부르기 / 경매방 나가기]
+자유게시판[게시글작성/수정/삭제/보기]
+인증[로그인/로그아웃/회원가입/회원탈퇴]
+관리자[인증KEY관리 / 업로드 수,용량제한 / 경매진행 / 경매중지 / 낙찰확정 /  송금하기]
 
+핵심기술FN : REACT JSX,REACT ROUTER, REACT AXIOS , REACT  HOOKS,
+핵심 기술 : SPRING MVC,THYMELEAF, MYBATIS OR JPA ,  SPRING SECURITY, SPRING TRANSACTION, OAUTH2_CLIENT , JWT TOKEN , REDIS , WEBSOCKET_STOMP
+배포 : AWS EC2 , AWS ROUTER , AWS Certificate Manager , 가비아도메인 , DOCKER , JENKINS , GETHUB WEBHOOKS 
 
-핵심 기술 : SPRING MVC,THYMELEAF, MYBATIS OR JPA ,  SPRING SECURITY, SPRING TRANSACTION, OAUTH2_CLIENT , JWT TOKEN , REDIS , WEBSOCKET_STOMP 
 ```
 
 ---
 FINAL PROJECT 2 - 100H
 ---
-반려동물 정합정보 서비스 [나의반려동물 등록 / 견종 정보 확인 / 근처 병원 찾기 / 동물 보감.. / 용품 구매]
+자유주제[팀별 / 개별]
 ```
-핵심기술FN : REACT JSX,REACT ROUTER, REACT AXIOS , REACT 
-핵심기술BN : SPRING REST, MYBATIS OR JPA ,  SPRING SECURITY, SPRING TRANSACTION, OAUTH2_CLIENT , JWT TOKEN , REDIS
+[기획]
+01 스타일 가이드
+02 와이어 프레임
+03 프로토 타입
+04 스토리보드
+05 요구사항 분석
+06 요구사항 정의서
+07 USECASE
+08 USECASE명세서
+09 FLOW CHART
+10 클래스 다이어그램 MVC
+11 시퀀스 다이어그램
+12 API 명세서
+
+[구현]
+메인
+나의정보
+인증
+기타(자유 - 1개 이상의 CRUD)
+
+핵심기술FN : REACT JSX,REACT ROUTER, REACT AXIOS , REACT  HOOKS,
+핵심 기술 : SPRING MVC,THYMELEAF, MYBATIS OR JPA ,  SPRING SECURITY, SPRING TRANSACTION, OAUTH2_CLIENT , JWT TOKEN , REDIS , WEBSOCKET_STOMP
+배포 : AWS EC2 , AWS ROUTER , AWS Certificate Manager , 가비아도메인 , DOCKER , JENKINS , GETHUB WEBHOOKS 
 ```
 
 
